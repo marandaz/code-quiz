@@ -120,7 +120,7 @@ Project Link: [https://marandaz.github.io/code-quiz/](https://marandaz.github.io
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* **Instructors:** Shout out to my Bootcamp instructor, John Young, for helping pave the path to a brighter future. Also credit given to Dan Mont-Eton (TA) and Brittany Fortner (tutor) -- extremely appreciative of the support! (
+* **Instructors:** Shout out to my Bootcamp instructor, John Young, for helping pave the path to a brighter future. Also credit given to Dan Mont-Eton (TA) and Brittany Fortner (tutor) -- extremely appreciative of the support! 
 * [Page Logo](https://readwrite.com/2019/10/08/why-you-love-online-quizzes/)
 
 
