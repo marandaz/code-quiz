@@ -42,13 +42,13 @@
 
 <p align="center">
 <a href="https://github.com/marandaz/code-quiz/">
-    <img src="Assets/page-load.jpg" alt="on initial page load"/>
+    <img src="Assets/page-load.png" alt="on initial page load"/>
     .
     <img src="Assets/startquiz.png" alt="on first click"/>
         .
-    <img src="Assets/quiz-time.jpg" alt="timer"/>
+    <img src="Assets/quiz-time.jpeg" alt="timer"/>
             .
-    <img src="Assets/score" alt="score"/>
+    <img src="Assets/score.png" alt="score"/>
 <!-- MARANDA TO UPDATE LINK ABOVE SO IT WORKS -->
 </a>
 </p>
