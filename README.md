@@ -45,9 +45,7 @@
     <img src="Assets/page-load.png" alt="on initial page load"/>
     .
     <img src="Assets/startquiz.png" alt="on first click"/>
-        .
-    <img src="Assets/quiz-time.jpeg" alt="timer"/>
-            .
+    .
     <img src="Assets/score.png" alt="score"/>
 <!-- MARANDA TO UPDATE LINK ABOVE SO IT WORKS -->
 </a>
